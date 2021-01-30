@@ -44,3 +44,4 @@ exports.config = {
   guildOnly: true,
   aliases: ["e", "man"],
 };
+//:D
